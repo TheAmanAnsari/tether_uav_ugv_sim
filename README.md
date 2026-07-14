@@ -1,5 +1,7 @@
 # Tethered UAV-UGV System
 
+![Tethered UAV-UGV System (Gazebo)](https://github.com/Amann09/tether_uav_ugv_sim/blob/main/images/tethered-uav-ugv-in-gazebo-sim.jpg)
+
 ## STEPS
 
 ### Install docker 

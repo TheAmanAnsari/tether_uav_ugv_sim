@@ -17,7 +17,7 @@ Follow the guide here https://developer.nvidia.com/nvidia-container-runtime
 ### Build docker image
 Clone this repository and build the docker image
 ```
-git clone https://github.com/Amann09/tether_uav_ugv_sim.git
+git clone https://github.com/TheAmanAnsari/tether_uav_ugv_sim.git
 cd tether_uav_ugv_sim
 sudo bash build_image.sh
 ```
